@@ -1,0 +1,35 @@
+🇬🇧 English:
+"The quick brown fox jumps over the lazy dog."
+🇫🇷 French:
+"Bonjour, je m'appelle Pierre et j'habite à Paris."
+🇪🇸 Spanish:
+"Hola, ¿cómo estás? Me llamo Carlos."
+🇩🇪 German:
+"Guten Morgen! Ich heiße Anna und komme aus Berlin."
+🇷🇺 Russian:
+"Привет, меня зовут Дмитрий. Я из Москвы."
+🇮🇹 Italian:
+"Ciao! Mi chiamo Lucia e vivo in Roma."
+🇵🇹 Portuguese:
+"Olá, tudo bem? Eu sou do Brasil."
+🇸🇪 Swedish:
+"Hej! Jag heter Erik och bor i Stockholm."
+🇳🇱 Dutch:
+"Hallo, ik ben Emma en ik woon in Amsterdam."
+🇩🇰 Danish:
+"Godmorgen! Jeg hedder Lars og kommer fra Danmark."
+🇬🇷 Greek:
+"Γειά σου! Με λένε Μαρία και είμαι από την Αθήνα."
+🇮🇳 Hindi:
+"नमस्ते, मेरा नाम अर्जुन है और मैं भारत से हूँ।"
+🇹🇷 Turkish:
+"Merhaba! Benim adım Ayşe ve İstanbul'da yaşıyorum."
+🇸🇦 Arabic:
+" مرحبااصدقائي الطلاب انا عمر الرحيل من درعا"
+🇮🇳 Tamil:
+"வணக்கம்! என் பெயர் அருண். நான் இந்தியாவிலிருந்து வந்தேன்."
+🇮🇳 Kannada:
+"ಹಲೋ! ನನ್ನ ಹೆಸರು ರಾಮ್ ಮತ್ತು ನಾನು ಬೆಂಗಳೂರು ನಿಂದ ಬರುವೆ."
+🇮🇳 Malayalam:
+"ഹായ്! എന്റെ പേര് രാജു. ഞാൻ കേരളത്തിൽ നിന്നാണ്."
+
